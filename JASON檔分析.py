@@ -43,5 +43,5 @@ obj1.append(dict3)
 
     # print("  場地:",obj1["infos"][id]["Name"])
 
-
+## 測試修改BY藍浩翔
 
