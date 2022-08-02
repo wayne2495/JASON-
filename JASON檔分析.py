@@ -45,7 +45,3 @@ obj1.append(dict3)
 
 
 
-"""
-主要欄位說明	iid：ItemId、 sv：場站狀態、 sd：啟用時間、 vtyp：版本別、 sno：場站代號、 sna：場站名稱、 sip：場站 IP、 tot：場站的總停車格、 sbi：場站的目前車輛數、 sarea：場站區域、 mday：資料更新時間、 lat：經度、 lng：緯度、 ar：地址、 sareaen：場站區域英文名稱、 snaen：場站英文名稱、 aren：英文地址、 nbcnt：擋板數量、 bemp：空位數量、 act：禁用狀態
-
-"""
